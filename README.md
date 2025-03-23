@@ -1,4 +1,6 @@
 # Rotating 3D Parametric Heart in Manim
+
+## Julia's Parametric Heart
 [![Heart3D Demo](https://img.youtube.com/vi/ehfgxtvU5G4/0.jpg)](https://www.youtube.com/watch?v=ehfgxtvU5G4)
 
 ## Install Manim
