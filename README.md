@@ -1,4 +1,8 @@
 # Rotating 3D Parametric Heart in Manim
+<video controls width="100%">
+  <source src="https://github.com/zhan4727/ParametricHeart3D/raw/main/Heart3D.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Install Manim
 
